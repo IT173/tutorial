@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//IT173.github.io/react-tutorial/static/css/main.0e3d71f4.css",
+    "main.js": "/https//IT173.github.io/react-tutorial/static/js/main.faf9cbc4.js",
+    "index.html": "/https//IT173.github.io/react-tutorial/index.html",
+    "main.0e3d71f4.css.map": "/https//IT173.github.io/react-tutorial/static/css/main.0e3d71f4.css.map",
+    "main.faf9cbc4.js.map": "/https//IT173.github.io/react-tutorial/static/js/main.faf9cbc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e3d71f4.css",
+    "static/js/main.faf9cbc4.js"
+  ]
+}
